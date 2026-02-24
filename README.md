@@ -13,11 +13,23 @@ Welcome to my GitHub profile! I'm a dedicated and aspiring **Data Science studen
 ---
 
 ## 🔗 Connect with Me
-[![LinkedIn](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)](https://linkedin.com/in/umar%20farooq%20davul%20sab%20gari)  
-[![Instagram](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg)](https://instagram.com/mr.farooq_r13)  
-[![CodeChef](https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg)](https://www.codechef.com/users/dumarfarooq)  
-[![GeeksforGeeks](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg)](https://auth.geeksforgeeks.org/user/umarfaro8nbh)  
-[![Topcoder](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg)](https://www.topcoder.com/members/516172)
+<p align="center">
+  <a href="https://linkedin.com/in/umar%20farooq%20davul%20sab%20gari" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://instagram.com/mr.farooq_r13" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://www.codechef.com/users/dumarfarooq" target="_blank">
+    <img src="https://img.shields.io/badge/CodeChef-%23BB4D38.svg?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" />
+  </a>
+  <a href="https://auth.geeksforgeeks.org/user/umarfaro8nbh" target="_blank">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-%23007F4F.svg?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" />
+  </a>
+  <a href="https://www.topcoder.com/members/516172" target="_blank">
+    <img src="https://img.shields.io/badge/Topcoder-%23000000.svg?style=for-the-badge&logo=topcoder&logoColor=white" alt="Topcoder" />
+  </a>
+</p>
 
 ---
 
