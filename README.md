@@ -23,7 +23,25 @@ Welcome to my GitHub profile! I'm a dedicated and aspiring **Data Science studen
 
 ## 🛠️ Skills & Tools
 
-![C](https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg) ![CSS3](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg) ![Git](https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg) ![HTML5](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg) ![Java](https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg) ![MySQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg) ![OpenCV](https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg) ![Oracle](https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg) ![Pandas](https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg) ![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg) ![PyTorch](https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg) ![Scikit-learn](https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg) ![Seaborn](https://seaborn.pydata.org/_images/logo-mark-lightbg.svg) ![TensorFlow](https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg)
+Here are some of the technologies and tools I work with:
+
+- ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&style=flat-square)
+- ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-FF6F00?logo=machine-learning&style=flat-square)
+- ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&style=flat-square)
+- ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&style=flat-square)
+- ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&style=flat-square)
+- ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?logo=scikit-learn&style=flat-square)
+- ![Seaborn](https://img.shields.io/badge/-Seaborn-009999?logo=seaborn&style=flat-square)
+- ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?logo=opencv&style=flat-square)
+- ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&style=flat-square)
+- ![Java](https://img.shields.io/badge/-Java-007396?logo=java&style=flat-square)
+- ![MySQL](https://img.shields.io/badge/-MySQL-00758F?logo=mysql&style=flat-square)
+- ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&style=flat-square)
+- ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&style=flat-square)
+- ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&style=flat-square)
+- ![Oracle](https://img.shields.io/badge/-Oracle-F80000?logo=oracle&style=flat-square)
+
+*Badges generated using [shields.io](https://shields.io/).*
 
 ---
 
