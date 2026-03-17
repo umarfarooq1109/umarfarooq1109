@@ -62,3 +62,7 @@ Here are some of the technologies I work with:
 ### Contact
 
 - Email: umarfarooqdavul@gmail.com
+
+---
+
+*Made with ❤️ using [GitHub](https://github.com)*
